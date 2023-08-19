@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on innovative web projects! Whether it's front-end magic with HTML, CSS, and JavaScript or diving into the back-end realm with databases and server logic, count me in. 
-- 📫 How to reach me
+- 📫 How to reach me :
  vishnukumawat1428@gmail.com
 
 <!---
